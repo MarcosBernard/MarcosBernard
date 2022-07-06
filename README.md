@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @MarcosBernard.
-- 👀 I’m interested in electronics.
-- 🌱 I’m currently learning about Embedded systems.
-- 💞️ I’m looking to collaborate on projects what require some electronics knowledgement.
-- 📫 How to reach me, by email marcoscalixto92@gmail.com
-
 <!---
 MarcosBernard/MarcosBernard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -157,6 +151,12 @@ You can click the Preview link to take a look at your changes.
   <h2 align="center"> my current activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
+
+- 👋 Hi, I’m @MarcosBernard.
+- 👀 I’m interested in electronics.
+- 🌱 I’m currently learning about Embedded systems.
+- 💞️ I’m looking to collaborate on projects what require some electronics knowledgement.
+- 📫 How to reach me, by email marcoscalixto92@gmail.com
 
 ------
 Credit: [1999azzar](https://github.com/1999azzar)
